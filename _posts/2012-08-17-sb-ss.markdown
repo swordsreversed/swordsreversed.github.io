@@ -10,7 +10,7 @@ wordpress_id: 124
 
 It's official - Wings Over Newcastle.
 
-<img src="http://www.secretbirds.net/wp-content/uploads/2012/08/202782_10150937952781116_70703543_o-725x1024.jpg" alt="Sound Summit" style="width: 400px;"/>
+<img src="https://dl.dropboxusercontent.com/u/40156427/ss.jpg" alt="Sound Summit" style="width: 400px;"/>
 
 [http://www.facebook.com/events/148122588659241/](http://www.facebook.com/events/148122588659241/)
 
