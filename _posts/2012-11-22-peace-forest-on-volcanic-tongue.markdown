@@ -8,7 +8,7 @@ title: Peace Forest on Volcanic Tongue
 wordpress_id: 176
 ---
 
-Can't believe I didn't post this earlier. Best best best.
+
 
 ![](http://www.volcanictongue.com/images/volcanictonguecatalogue.jpg)
 
